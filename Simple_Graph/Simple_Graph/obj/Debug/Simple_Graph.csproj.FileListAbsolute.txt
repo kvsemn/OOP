@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ISPP\Simple_Graph\Simple_Graph\obj\Debug\Simple_Graph.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ISPP\Simple_Graph\Simple_Graph\obj\Debug\Simple_Graph.Properties.Resources.resources
+C:\Users\User\source\repos\ISPP\Simple_Graph\Simple_Graph\obj\Debug\Simple_Graph.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ISPP\Simple_Graph\Simple_Graph\obj\Debug\Simple_Graph.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ISPP\Simple_Graph\Simple_Graph\bin\Debug\Simple_Graph.exe.config
+C:\Users\User\source\repos\ISPP\Simple_Graph\Simple_Graph\bin\Debug\Simple_Graph.exe
+C:\Users\User\source\repos\ISPP\Simple_Graph\Simple_Graph\bin\Debug\Simple_Graph.pdb
+C:\Users\User\source\repos\ISPP\Simple_Graph\Simple_Graph\obj\Debug\Simple_Graph.exe
+C:\Users\User\source\repos\ISPP\Simple_Graph\Simple_Graph\obj\Debug\Simple_Graph.pdb
+C:\Users\User\source\repos\ISPP\Simple_Graph\Simple_Graph\obj\Debug\Simple_Graph.View.resources
